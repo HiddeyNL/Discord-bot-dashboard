@@ -1,0 +1,19 @@
+{
+    "website": {
+        "name": "BotsByHiddey",
+        "avatar": "https://cdn.discordapp.com/attachments/861626109275406367/877934549915533412/giphy_1.gif",
+        "invite": "https://discord.com/api/oauth2/authorize?client_id=880475737663090759&permissions=0&scope=bot"
+    },
+
+    "commands": {
+        "basic": [{
+            "name": "help",
+            "category": "basic",
+            "description": "Help Command",
+            "permissions": ["MANAGE_GUILD"],
+            "aliases": ["h"],
+            "usage": "?help <cmd>"
+        }]
+
+    }
+}
